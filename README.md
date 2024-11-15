@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue, React, Angular, Laravel, Django, Python ,Odoo.**
 
-- 💬 Ask me about **Java, Html, CSS, JS, Ionic, C++.**
+- 💬 Ask me about **Java, Html, CSS, JS, Ionic, Laravel, C++.**
 
 - 📫 How to reach me **josemanuel.rnav@gmail.com // josemanuelroman02@gmail.com**
 
