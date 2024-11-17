@@ -1,9 +1,9 @@
-<img align="center" width="1000" height="500" src="https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvYTAxMC1tYXJrdXNzcGlza2UtbWFyMTktMTkwMi00OTg4LmpwZw.jpg">
+<img align="center" width="1000" height="300" src="https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvYTAxMC1tYXJrdXNzcGlza2UtbWFyMTktMTkwMi00OTg4LmpwZw.jpg">
 
 <h1 align="center">Hi 👋, I'm José Manuel Román Navarro</h1>
-<h3 align="center">I am a passionate programmer Student</h3>
+<h3 align="center">I am a passionate FullStack developer from Spain</h3>
 
-<img align="right" alt="Coding" width="500" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlxN201NmRzZmI5Y2FqZXVtYTFkZG11cTFkZTdzdjVta2x6N2c5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.webp">
+<img align="right" alt="Coding" width="500" height="300" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseromandev&label=Profile%20views&color=0e75b6&style=flat" alt="joseromandev" /> </p>
