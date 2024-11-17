@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Html, CSS, JS, Ionic, Laravel, C++.**
 
-- 📫 How to reach me **josemanuel.rnav@gmail.com // josemanuelroman02@gmail.com**
+- 📫 How to reach me <br> **josemanuel.rnav@gmail.com | | josemanuelroman02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
